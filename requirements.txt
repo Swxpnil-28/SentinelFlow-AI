@@ -1,0 +1,11 @@
+streamlit
+chromadb
+beautifulsoup4
+langchain-core
+langchain-text-splitters
+groq
+openai
+sentence-transformers
+python-dotenv
+httpx
+pydantic
